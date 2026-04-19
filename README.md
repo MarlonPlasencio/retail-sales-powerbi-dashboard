@@ -29,7 +29,7 @@ High-level KPIs and performance summary for quick decision-making.
 - Total Orders: 5,009
 - Average Order Value: $458.61
 
-![Executive Overview](page1.png)
+![Executive Overview](Page1.png)
 
 ### 2. Product & Margin Analysis
 Deep dive into which products and sub-categories are driving or 
@@ -38,7 +38,7 @@ hurting profitability.
 - Discount vs Profit scatter plot
 - Top product breakdown with margin %
 
-![Product & Margin Analysis](page2.png)
+![Product & Margin Analysis](Page2.png)
 
 ### 3. Seasonal Trends
 Understanding when sales peak and how the business has grown year over year.
@@ -46,7 +46,7 @@ Understanding when sales peak and how the business has grown year over year.
 - Year-over-year growth (2014–2017)
 - Sales by fulfillment/ship mode
 
-![Seasonal Trends](page3.png)
+![Seasonal Trends](Page3.png)
 
 ### 4. Regional Performance
 Geographic breakdown of where the business is profitable and where it 
@@ -55,7 +55,7 @@ is losing money.
 - Sales by region (West, East, Central, South)
 - Full state-level table with Sales, Profit, and Margin %
 
-![Regional Performance](page4.png)
+![Regional Performance](Page4.png)
 
 ---
 
