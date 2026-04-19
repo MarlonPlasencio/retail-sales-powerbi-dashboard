@@ -1,7 +1,7 @@
 # Retail Sales Analysis Dashboard
 
 **Tools:** Power BI, DAX  
-**Data Source:** Superstore Sales Dataset (Kaggle — publicly available)  
+**Data Source:** Superstore Sales Dataset (Kaggle - publicly available)  
 **Records:** 9,994 orders | $2.3M in sales | 2014–2017  
 
 ---
@@ -11,7 +11,7 @@
 This is a personal portfolio project I built to develop my Power BI and 
 data analysis skills. I used a publicly available retail dataset and applied 
 my background in retail operations and business management to go beyond 
-just building charts — I focused on finding real business insights within 
+just building charts - I focused on finding real business insights within 
 the data.
 
 The dashboard is designed to simulate the kind of reporting a retail 
